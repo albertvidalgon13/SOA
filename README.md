@@ -1,6 +1,4 @@
-Code of a simple SO based on linux 2.4 kernel. 
-
-FIB-UPC subject.
+## Code of a simple SO based on linux 2.4 kernel. 
 
 E1 and E2 grade: 10
 
